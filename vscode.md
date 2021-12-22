@@ -8,7 +8,7 @@ tags:
     - editor
     - shortcut
 categories:
-    - Toolkit
+    - IDE
 intro: |
     This VSCode (Visual Studio Code) quick reference cheat sheet shows its keyboard shortcuts and commands.
 ---
